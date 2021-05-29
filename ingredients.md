@@ -1,0 +1,1 @@
+flour,cornstarch,salt,baking powder, vinegar, oil,sugar,mango puree,milk,water
